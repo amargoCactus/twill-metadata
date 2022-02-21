@@ -19,7 +19,7 @@
         }
     },
     "require": {
-        "area17/twill": "^2.6",
+        "area17/twill": "dev-master",
         "artesaos/seotools": "^0.20"
     }
 }
